@@ -15,8 +15,6 @@ System kryptowaluty implementujący podstawowy zestaw funkcji w oparciu o techno
 - [Instalacja](#-instalacja)
 - [Użycie](#-użycie)
 - [Moduły](#-moduły)
-- [Bezpieczeństwo](#-bezpieczeństwo)
-- [Rozwój](#-rozwój)
 
 ---
 
